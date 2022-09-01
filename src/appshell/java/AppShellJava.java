@@ -9,15 +9,15 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 import org.json.JSONArray;
-import org.json.JSONObject;
 import org.json.JSONException;
+import org.json.JSONObject;
 
 /**
  *
  * @author ASUS
  */
 public class AppShellJava {
-
+    
     public static void main(String[] args) throws JSONException {
 
         Scanner escaner = new Scanner(System.in);
@@ -316,6 +316,6 @@ public class AppShellJava {
 
     }
 
+    
+
 }
-
-
